@@ -1,0 +1,10 @@
+{
+  "extensionDescription": {
+    "description": "Extension description",
+    "message": "This extension provides automation for farming resources in IdleMMO browser (and mobile) game."
+  },
+  "extensionName": {
+    "description": "Really IdleMMO",
+    "message": "Really IdleMMO"
+  }
+}
