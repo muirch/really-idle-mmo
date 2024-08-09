@@ -19,11 +19,13 @@
   },
   "dependencies": {
     "@extension/shared": "workspace:*",
-    "@extension/storage": "workspace:*"
+    "@extension/storage": "workspace:*",
+    "jsdom": "^24.1.1"
   },
   "devDependencies": {
     "@extension/hmr": "workspace:*",
     "@extension/tsconfig": "workspace:*",
-    "@extension/vite-config": "workspace:*"
+    "@extension/vite-config": "workspace:*",
+    "@types/jsdom": "^21.1.7"
   }
 }

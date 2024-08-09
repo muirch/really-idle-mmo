@@ -15,7 +15,7 @@ const manifest = {
   version: packageJson.version,
   description: "__MSG_extensionDescription__",
   host_permissions: [gameUrl],
-  permissions: ["storage", "scripting"],
+  permissions: ["storage", "scripting", "alarms"],
   background: {
     service_worker: "background.iife.js",
     type: "module",
